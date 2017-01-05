@@ -1,7 +1,3 @@
----
-title: Lyouiu
-layout: post
----
 
 ## Welcome to GitHub Pages
 
